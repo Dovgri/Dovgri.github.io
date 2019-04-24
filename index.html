@@ -116,9 +116,40 @@ state[row][col]='o';
 }
 checkForWin();
     }
-    function checkForWin() {
-      // Pabaigti;
-
-    }
+    function checkForWin() {for(let i=0; i<3; i++){
+if(state[i][0]==='x'&&state[i][1]==='x'&& state[i][2]==='x')
+{
+document.getElementById("turnIndicator").innerHTML = 'X wins';
+}
+if(state[i][0]==='o'&&state[i][1]==='o'&& state[i][2]==='o')
+{
+document.getElementById("turnIndicator").innerHTML = 'O wins';
+}
+//Eilute
+if(state[0][i]==='x'&&state[1][i]==='x'&& state[2][i]==='x')
+{
+document.getElementById("turnIndicator").innerHTML = 'X wins';
+}
+if(state[0][i]==='o'&&state[1][i]==='o'&& state[2][i]==='o')
+{
+document.getElementById("turnIndicator").innerHTML = 'O wins';
+}
+//Stulpelis
+if(state[0][0]==='x'&&state[1][1]==='x'&& state[2][2]==='x'){
+document.getElementById("turnIndicator").innerHTML = 'X wins';
+}
+if(state[0][0]==='o'&&state[1][1]==='o'&& state[2][2]==='o'){
+document.getElementById("turnIndicator").innerHTML = 'O wins';
+}
+//kampas is kaires
+if(state[0][2]==='x'&&state[1][1]==='x'&& state[2][0]==='x'){
+document.getElementById("turnIndicator").innerHTML = 'X wins';
+}
+if(state[0][2]==='o'&&state[1][1]==='o'&& state[2][0]==='o'){
+document.getElementById("turnIndicator").innerHTML = 'O wins';
+}
+//kampas is desines
+}
+}
   </script>
 </html>
