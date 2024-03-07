@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Most amazing hugo site</title>
+    
+    
+    
+    <link>https://Dovgri.github.io/posts/</link>
+    <description>Recent content in Posts on Most amazing hugo site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Mar 2024 10:00:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://Dovgri.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Puslapis vertas pliuso</title>
+      <link>https://Dovgri.github.io/posts/myblog/</link>
+      <pubDate>Thu, 07 Mar 2024 10:00:59 +0200</pubDate>
+      
+      <guid>https://Dovgri.github.io/posts/myblog/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
