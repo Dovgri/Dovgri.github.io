@@ -5,21 +5,21 @@
     
     
     
-    <link>https://Dovgri.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Most amazing hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Mar 2024 14:15:09 +0200</lastBuildDate>
     
-	<atom:link href="https://Dovgri.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gytis molis</title>
-      <link>https://Dovgri.github.io/posts/naujas/</link>
+      <link>http://localhost:1313/posts/naujas/</link>
       <pubDate>Thu, 07 Mar 2024 14:15:09 +0200</pubDate>
       
-      <guid>https://Dovgri.github.io/posts/naujas/</guid>
+      <guid>http://localhost:1313/posts/naujas/</guid>
       <description>
         
           
@@ -28,7 +28,7 @@
         
         
         
-          “My mother always used to say: The older you get, the better you get, unless you’re a banana.” —Rose (Betty White), The Golden Girls
+           199 ![](https://img.freepik.com/free-photo/close-up-portrait-beautiful-cat_23-2149214419.jpg &amp;#34;Cat = funny&amp;#34;) 
           
         
         </description>
@@ -36,10 +36,10 @@
     
     <item>
       <title>Puslapis vertas pliuso</title>
-      <link>https://Dovgri.github.io/posts/myblog/</link>
+      <link>http://localhost:1313/posts/myblog/</link>
       <pubDate>Thu, 07 Mar 2024 10:00:59 +0200</pubDate>
       
-      <guid>https://Dovgri.github.io/posts/myblog/</guid>
+      <guid>http://localhost:1313/posts/myblog/</guid>
       <description>
         
           
